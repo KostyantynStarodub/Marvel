@@ -1,0 +1,119 @@
+body{
+    background-color: rgb(74, 81, 87);
+}
+h1{
+    color: red;
+}
+.mother{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(153, 150, 150);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.box1{
+    background-color: tomato;
+    height: 200px;
+    width: 300px;
+    position: relative;
+    margin: 30px;
+    background: #95989d;
+    background-image: linear-gradient(30deg, #40004b, #722e80, #9a6daa, #c1a4cd, #e3d2e6, #eff0ef, #d6eed1, #a2d79f, #5dad65, #217939, #217939);
+}
+.box2{
+    background-color: tomato;
+    height: 200px;
+    width: 300px;
+    position: relative;
+    margin: 30px;
+    background: #b98987;
+    background-image: linear-gradient(30deg, #67001f, #ab202e, #d55f50, #f0a285, #fcd8c4, #faf4f0, #dfdfdf, #b8b8b8, #868686, #4e4e4e, #4e4e4e);
+}
+.box3{
+    background-color: tomato;
+    height: 200px;
+    width: 300px;
+    position: relative;
+    margin: 30px;
+    background: #96a180;
+    background-image: linear-gradient(30deg, #543005, #8b530f, #bc8434, #ddbd7b, #f2e4bf, #eef1ea, #c3e7e2, #80c9bf, #399890, #0a675f, #0a675f);
+}
+.box4{
+    background-color: tomato;
+    height: 200px;
+    width: 300px;
+    position: relative;
+    margin: 30px;
+    background: #a88d9a;
+    background-image: linear-gradient(30deg, #67001f, #ab202e, #d55f50, #f0a285, #fad6c3, #f2efee, #cde3ee, #90c2dd, #4b94c4, #2265a3, #2265a3);
+}
+.pic1{
+    width: 180px;
+    height: 240px;
+    position: absolute;
+    left: -15px;
+    bottom: -20px;
+}
+.pic2{
+    width: 180px;
+    height: 240px;
+    position: absolute;
+    left: -30px;
+    bottom: -20px;
+}
+.pic3{
+    width: 180px;
+    height: 240px;
+    position: absolute;
+    top: -20px;
+    left: -25px;
+}
+.pic4{
+    width: 180px;
+    height: 280px;
+    position: absolute;
+    top: -30px;
+    left: -10px;
+}
+.text1{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+}
+.text2{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+}
+.text3{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+}
+.text4{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+}
+.name1{
+    position: absolute;
+    right: 2px;
+    top: 25px;
+}
+.name2{
+    position: absolute;
+    right: 2px;
+    top: 25px;
+}
+.name3{
+    position: absolute;
+    right: 2px;
+    top: 25px;
+}
+.name4{
+    position: absolute;
+    right: 2px;
+    top: 25px;
+}
